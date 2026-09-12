@@ -1,0 +1,201 @@
+Model,Brand,RAM_GB,Processor,Generation,Storage_GB_SSD,Display_inch,Battery_hours,Weight_kg,Price_INR,Rating,Best_For
+Legion 13,Lenovo,32,Intel i5-12450H,12th Gen,1024,16.0,11.1,2.61,55354,4.4,Office
+MacBook Pro 13,Apple,32,Intel i3-1115G4,11th Gen,256,16.0,4.9,1.22,175285,4.1,Office
+ROG 13,Asus,8,Intel i3-1115G4,12th Gen,512,14.0,9.2,2.51,91499,4.4,Gaming
+MacBook Air 17,Apple,8,Ryzen 5 5500U,6th Gen,512,15.6,6.8,1.99,56487,4.8,Student
+Aspire 15,Acer,32,Apple M1,12th Gen,512,14.0,5.7,1.99,162393,3.9,Student
+Aspire 17,Acer,32,Ryzen 7 5800H,10th Gen,1024,16.0,6.0,2.64,135010,4.2,Gaming
+Vostro 14,Dell,16,Apple M1,11th Gen,512,13.3,11.5,1.34,125458,4.6,Editing
+MacBook Pro 17,Apple,16,Ryzen 7 5800H,11th Gen,512,16.0,4.9,2.51,57420,4.7,Programming
+G15 16,Dell,16,Intel i5-1135G7,11th Gen,1024,15.6,6.7,2.26,145305,3.5,Editing
+TUF 14,Asus,16,Apple M2,6th Gen,512,16.0,7.6,1.97,149737,3.5,Everyday
+Aspire 15,Acer,16,Intel i5-12450H,11th Gen,1024,14.0,7.1,1.34,140791,4.9,Programming
+IdeaPad 15,Lenovo,16,Apple M2,5th Gen,256,13.3,10.1,1.78,59219,4.7,Everyday
+Modern 16,MSI,16,Intel i5-1135G7,6th Gen,1024,13.3,11.8,2.78,164950,4.4,Everyday
+G15 13,Dell,16,Intel i5-12450H,12th Gen,1024,13.3,8.2,2.09,165977,4.5,Editing
+G15 13,Dell,32,Apple M1,10th Gen,1024,14.0,7.9,1.51,75762,4.0,Programming
+Swift 17,Acer,8,Intel i5-1135G7,13th Gen,1024,13.3,4.1,1.32,80703,3.5,Programming
+XPS 15,Dell,16,Ryzen 3 5300U,12th Gen,256,16.0,6.9,2.67,132133,4.8,Programming
+ROG 16,Asus,16,Intel i5-1135G7,5th Gen,256,15.6,4.7,2.03,92691,3.8,Editing
+Victus 13,HP,16,Intel i3-1115G4,5th Gen,256,13.3,5.3,2.73,130804,4.9,Gaming
+Inspiron 15,Dell,8,Intel i3-1115G4,12th Gen,256,13.3,6.2,1.55,153354,3.9,Programming
+Pavilion 16,HP,8,Apple M1,5th Gen,256,15.6,9.9,1.53,128054,4.8,Editing
+XPS 16,Dell,16,Intel i5-12450H,6th Gen,256,16.0,8.9,2.08,146265,3.9,Editing
+G15 14,Dell,8,Ryzen 3 5300U,13th Gen,256,16.0,4.3,2.63,125651,3.7,Editing
+ThinkPad 13,Lenovo,8,Intel i5-1135G7,10th Gen,256,13.3,9.8,2.56,71624,3.6,Everyday
+Slim 17,Lenovo,32,Intel i5-1135G7,10th Gen,256,15.6,4.0,2.27,75445,4.0,Editing
+Vostro 16,Dell,32,Apple M2,10th Gen,256,15.6,5.3,1.46,149363,4.3,Gaming
+Inspiron 14,Dell,16,Intel i7-12700H,6th Gen,256,15.6,6.8,1.82,147934,4.2,Student
+Katana 15,MSI,16,Intel i3-1115G4,5th Gen,256,13.3,4.8,1.68,160844,4.6,Gaming
+Swift 16,Acer,8,Apple M1,6th Gen,1024,15.6,10.8,1.85,94702,4.1,Editing
+GF63 13,MSI,32,Intel i3-1115G4,11th Gen,1024,15.6,7.9,1.28,156594,4.2,Office
+XPS 17,Dell,16,Ryzen 5 5500U,5th Gen,256,15.6,11.1,1.45,81196,4.7,Everyday
+Victus 14,HP,32,Ryzen 5 5500U,6th Gen,256,14.0,7.1,1.85,102539,4.6,Student
+GF63 16,MSI,32,Intel i5-12450H,10th Gen,1024,13.3,6.4,2.22,177597,4.1,Office
+Swift 16,Acer,32,Ryzen 7 5800H,12th Gen,256,16.0,10.7,2.13,71325,4.0,Programming
+15s 17,HP,8,Intel i5-12450H,11th Gen,1024,13.3,7.6,2.34,105000,4.5,Editing
+MacBook Air 13,Apple,8,Intel i7-12700H,13th Gen,1024,16.0,4.9,2.31,161524,4.7,Programming
+Swift 14,Acer,8,Ryzen 7 5800H,6th Gen,1024,14.0,5.1,2.13,124807,4.5,Editing
+Katana 16,MSI,8,Apple M2,11th Gen,256,13.3,11.3,2.07,52468,4.5,Office
+Legion 13,Lenovo,32,Apple M1,13th Gen,256,16.0,10.4,2.79,74610,4.4,Student
+ThinkPad 13,Lenovo,16,Apple M2,6th Gen,256,14.0,4.7,1.75,37935,4.5,Student
+TUF 16,Asus,16,Ryzen 3 5300U,5th Gen,1024,15.6,6.2,1.57,175570,3.9,Office
+GF63 13,MSI,32,Ryzen 5 5500U,10th Gen,256,15.6,8.9,1.27,121940,4.4,Programming
+Aspire 14,Acer,8,Apple M2,12th Gen,1024,13.3,4.4,1.8,35580,4.5,Office
+Inspiron 14,Dell,32,Apple M2,12th Gen,512,13.3,4.7,1.89,82815,4.2,Gaming
+Modern 17,MSI,32,Apple M1,13th Gen,512,14.0,11.6,1.87,125478,4.1,Student
+MacBook Air 13,Apple,32,Intel i7-12700H,10th Gen,512,13.3,4.3,2.48,52211,4.4,Gaming
+GF63 15,MSI,32,Intel i3-1115G4,13th Gen,1024,14.0,9.8,1.41,71491,3.8,Everyday
+MacBook Pro 14,Apple,32,Intel i5-1135G7,6th Gen,256,13.3,9.8,1.72,130704,4.4,Student
+XPS 16,Dell,32,Ryzen 3 5300U,11th Gen,512,13.3,11.0,2.02,158097,3.7,Gaming
+IdeaPad 15,Lenovo,16,Ryzen 5 5500U,12th Gen,256,13.3,9.5,2.77,48777,3.6,Everyday
+MacBook Air 16,Apple,16,Intel i5-12450H,6th Gen,256,13.3,9.6,1.41,129381,4.1,Gaming
+Envy 17,HP,32,Ryzen 7 5800H,6th Gen,1024,13.3,6.0,2.33,67743,4.8,Editing
+Victus 13,HP,16,Ryzen 3 5300U,6th Gen,1024,13.3,8.5,2.71,146005,4.8,Office
+ROG 17,Asus,16,Ryzen 5 5500U,12th Gen,1024,16.0,6.4,1.29,104723,3.7,Office
+Victus 15,HP,8,Ryzen 5 5500U,5th Gen,1024,14.0,11.8,1.49,101784,4.0,Editing
+Legion 13,Lenovo,32,Intel i7-12700H,12th Gen,512,16.0,5.7,2.08,80428,4.6,Everyday
+MacBook Air 16,Apple,8,Intel i3-1115G4,5th Gen,1024,16.0,10.6,2.45,102655,3.8,Editing
+VivoBook 13,Asus,32,Intel i5-12450H,5th Gen,1024,14.0,7.8,2.27,160895,3.6,Editing
+Legion 16,Lenovo,32,Ryzen 5 5500U,13th Gen,256,16.0,11.0,1.67,66001,4.0,Gaming
+GF63 17,MSI,16,Ryzen 3 5300U,12th Gen,1024,16.0,12.0,2.71,59272,3.5,Office
+Katana 16,MSI,32,Ryzen 5 5500U,5th Gen,1024,13.3,4.4,2.51,136427,4.3,Everyday
+GF63 17,MSI,32,Ryzen 3 5300U,6th Gen,512,13.3,6.5,2.69,149651,4.5,Editing
+Inspiron 14,Dell,32,Intel i7-12700H,12th Gen,256,16.0,5.0,2.29,126784,4.3,Programming
+ZenBook 16,Asus,16,Intel i3-1115G4,12th Gen,256,13.3,7.4,2.05,76107,4.2,Editing
+XPS 14,Dell,16,Apple M1,10th Gen,1024,16.0,4.6,2.03,167801,4.5,Everyday
+GF63 14,MSI,8,Intel i7-12700H,11th Gen,512,13.3,7.5,1.3,179223,4.7,Everyday
+Swift 13,Acer,32,Ryzen 5 5500U,5th Gen,1024,15.6,9.6,2.08,141404,4.6,Everyday
+G15 15,Dell,16,Intel i5-1135G7,5th Gen,512,15.6,5.4,2.66,110669,4.2,Gaming
+Katana 13,MSI,16,Intel i7-12700H,10th Gen,1024,14.0,9.3,1.93,141376,4.2,Gaming
+Pavilion 13,HP,8,Apple M2,6th Gen,512,15.6,7.5,1.44,39445,4.5,Student
+Nitro 15,Acer,8,Intel i5-1135G7,5th Gen,1024,16.0,7.1,2.69,156990,4.3,Editing
+15s 14,HP,32,Ryzen 7 5800H,10th Gen,256,16.0,7.0,2.16,157180,3.7,Office
+MacBook Air 15,Apple,8,Ryzen 3 5300U,10th Gen,1024,16.0,11.6,2.0,61541,4.6,Office
+Envy 17,HP,16,Ryzen 7 5800H,6th Gen,256,15.6,10.6,2.15,90908,4.9,Gaming
+ROG 15,Asus,32,Intel i5-12450H,6th Gen,256,15.6,10.3,1.79,73927,3.5,Office
+Aspire 14,Acer,8,Ryzen 7 5800H,10th Gen,1024,14.0,11.0,1.46,43383,3.9,Student
+TUF 17,Asus,16,Ryzen 3 5300U,5th Gen,1024,16.0,6.0,2.68,175637,4.5,Everyday
+TUF 16,Asus,16,Apple M2,5th Gen,512,15.6,8.9,2.76,46158,3.9,Office
+Aspire 15,Acer,8,Apple M1,13th Gen,1024,14.0,5.4,2.78,51229,4.7,Programming
+Modern 15,MSI,16,Intel i3-1115G4,12th Gen,256,14.0,11.8,2.56,50889,4.7,Office
+Vostro 13,Dell,16,Apple M1,10th Gen,1024,13.3,5.0,1.48,175084,3.9,Gaming
+MacBook Pro 14,Apple,8,Intel i7-12700H,10th Gen,512,16.0,11.1,1.37,172353,3.7,Everyday
+ZenBook 14,Asus,32,Intel i3-1115G4,6th Gen,512,14.0,6.9,2.39,144062,4.6,Student
+ThinkPad 16,Lenovo,16,Ryzen 3 5300U,10th Gen,512,16.0,8.0,1.51,143568,3.9,Office
+Inspiron 13,Dell,32,Ryzen 5 5500U,5th Gen,512,16.0,5.5,1.88,38138,4.8,Programming
+ROG 17,Asus,32,Apple M2,13th Gen,1024,15.6,10.8,2.76,101875,4.4,Student
+Nitro 17,Acer,8,Ryzen 7 5800H,13th Gen,512,13.3,10.7,2.76,148775,4.7,Gaming
+Inspiron 14,Dell,32,Intel i7-12700H,13th Gen,256,15.6,7.4,2.71,53700,3.6,Programming
+MacBook Pro 13,Apple,8,Intel i7-12700H,11th Gen,256,14.0,9.9,1.21,73149,4.4,Gaming
+Modern 17,MSI,8,Ryzen 5 5500U,11th Gen,256,16.0,5.3,1.82,86617,4.2,Student
+XPS 16,Dell,16,Apple M1,10th Gen,1024,13.3,9.6,2.32,162586,4.9,Everyday
+Aspire 15,Acer,32,Intel i5-1135G7,5th Gen,256,14.0,7.7,1.73,90803,4.8,Office
+Swift 15,Acer,8,Ryzen 5 5500U,6th Gen,512,13.3,5.0,2.37,102445,4.1,Editing
+Aspire 16,Acer,32,Apple M2,13th Gen,256,15.6,10.7,2.61,70003,4.2,Student
+MacBook Pro 17,Apple,16,Ryzen 3 5300U,5th Gen,1024,14.0,11.9,1.64,47581,4.5,Office
+Pavilion 17,HP,8,Apple M1,12th Gen,256,15.6,9.1,2.79,168794,3.7,Everyday
+MacBook Pro 13,Apple,8,Intel i5-12450H,6th Gen,512,14.0,8.2,1.54,135271,4.3,Student
+Swift 14,Acer,16,Ryzen 7 5800H,10th Gen,256,14.0,7.2,2.65,83273,3.9,Editing
+Swift 13,Acer,16,Ryzen 3 5300U,5th Gen,512,13.3,7.0,2.05,95904,4.5,Student
+Katana 14,MSI,8,Intel i3-1115G4,10th Gen,512,14.0,5.9,2.79,162578,4.6,Office
+ROG 15,Asus,16,Intel i5-12450H,6th Gen,256,15.6,6.3,1.99,120155,3.5,Student
+MacBook Air 15,Apple,8,Apple M1,5th Gen,512,13.3,9.8,1.3,159956,3.8,Programming
+ThinkPad 13,Lenovo,32,Intel i5-12450H,11th Gen,256,15.6,9.8,2.64,67825,4.9,Student
+MacBook Pro 16,Apple,8,Apple M2,10th Gen,256,14.0,5.8,1.85,156093,4.2,Gaming
+ROG 14,Asus,8,Ryzen 5 5500U,13th Gen,256,15.6,5.9,2.73,109810,4.7,Programming
+GF63 16,MSI,32,Intel i5-12450H,10th Gen,512,13.3,7.8,2.57,163893,3.8,Student
+Pavilion 16,HP,16,Apple M1,12th Gen,512,15.6,8.9,1.45,145344,3.6,Student
+Vostro 14,Dell,8,Intel i5-1135G7,12th Gen,1024,14.0,11.6,1.55,125713,3.7,Editing
+Modern 13,MSI,32,Ryzen 3 5300U,12th Gen,256,15.6,4.2,1.73,155413,4.4,Everyday
+Katana 16,MSI,16,Ryzen 3 5300U,11th Gen,512,13.3,6.1,2.61,72708,4.6,Office
+MacBook Pro 16,Apple,16,Ryzen 5 5500U,13th Gen,512,13.3,8.1,2.22,44056,4.8,Programming
+MacBook Pro 15,Apple,8,Apple M2,5th Gen,256,15.6,11.5,2.04,125643,3.7,Student
+Swift 13,Acer,32,Intel i5-1135G7,10th Gen,1024,16.0,5.7,1.82,144918,4.5,Gaming
+ZenBook 14,Asus,8,Apple M2,10th Gen,512,14.0,6.9,1.48,76479,3.9,Everyday
+GF63 15,MSI,32,Ryzen 3 5300U,10th Gen,1024,16.0,11.6,1.75,149411,4.1,Editing
+Pavilion 16,HP,32,Apple M2,13th Gen,512,15.6,9.1,2.55,166367,3.7,Office
+Aspire 14,Acer,32,Ryzen 5 5500U,13th Gen,1024,16.0,9.2,1.29,81724,3.8,Student
+Nitro 14,Acer,16,Ryzen 5 5500U,13th Gen,512,16.0,6.3,2.25,174628,4.7,Programming
+VivoBook 14,Asus,8,Intel i7-12700H,6th Gen,512,14.0,10.3,2.1,100445,4.9,Everyday
+Inspiron 13,Dell,16,Ryzen 7 5800H,13th Gen,256,13.3,8.6,1.81,86035,4.9,Office
+TUF 14,Asus,16,Intel i3-1115G4,13th Gen,1024,16.0,5.5,2.24,36134,4.7,Programming
+Victus 14,HP,8,Ryzen 7 5800H,5th Gen,1024,13.3,5.6,1.87,54891,4.4,Gaming
+MacBook Pro 14,Apple,32,Ryzen 7 5800H,6th Gen,256,15.6,5.3,2.02,98795,4.9,Editing
+Slim 13,Lenovo,8,Ryzen 5 5500U,11th Gen,1024,13.3,6.0,2.14,39777,3.7,Editing
+Katana 16,MSI,32,Ryzen 3 5300U,11th Gen,512,14.0,9.4,1.94,168908,4.8,Gaming
+ThinkPad 13,Lenovo,16,Intel i3-1115G4,13th Gen,1024,14.0,8.9,2.0,74920,4.9,Programming
+Nitro 13,Acer,8,Ryzen 5 5500U,11th Gen,256,16.0,4.5,1.93,66485,4.1,Student
+Swift 13,Acer,32,Ryzen 5 5500U,10th Gen,256,13.3,11.4,2.31,49831,4.8,Student
+VivoBook 16,Asus,16,Apple M1,11th Gen,256,16.0,9.3,2.57,78516,4.7,Student
+ZenBook 15,Asus,8,Ryzen 3 5300U,6th Gen,512,16.0,9.5,1.25,163981,4.8,Everyday
+Envy 16,HP,8,Ryzen 7 5800H,10th Gen,256,15.6,5.9,2.75,39992,3.5,Editing
+Katana 16,MSI,8,Ryzen 7 5800H,6th Gen,1024,15.6,10.2,2.65,166008,4.5,Gaming
+Vostro 14,Dell,16,Intel i5-1135G7,6th Gen,1024,16.0,11.2,1.23,64518,4.0,Office
+XPS 14,Dell,32,Intel i5-12450H,5th Gen,256,15.6,11.1,1.41,75816,4.1,Programming
+MacBook Pro 14,Apple,16,Intel i7-12700H,10th Gen,256,16.0,8.8,1.67,173819,4.2,Student
+Swift 14,Acer,8,Intel i5-12450H,13th Gen,1024,14.0,10.7,1.95,92903,4.0,Student
+IdeaPad 17,Lenovo,32,Ryzen 7 5800H,13th Gen,512,16.0,8.0,1.99,85901,3.9,Student
+IdeaPad 13,Lenovo,8,Intel i7-12700H,12th Gen,512,16.0,6.4,1.99,130592,4.7,Gaming
+VivoBook 14,Asus,32,Intel i7-12700H,13th Gen,1024,16.0,8.4,1.43,141680,4.4,Student
+G15 13,Dell,8,Intel i5-12450H,12th Gen,512,14.0,10.7,1.44,35850,3.8,Student
+Modern 14,MSI,32,Ryzen 5 5500U,13th Gen,256,14.0,8.3,2.24,148187,4.5,Office
+Swift 14,Acer,16,Intel i7-12700H,5th Gen,512,13.3,8.5,1.88,107770,4.7,Programming
+ZenBook 14,Asus,8,Apple M2,6th Gen,256,16.0,6.8,2.8,157107,3.6,Editing
+Nitro 13,Acer,16,Ryzen 3 5300U,13th Gen,512,14.0,6.8,1.23,51975,3.8,Editing
+MacBook Air 14,Apple,8,Intel i5-1135G7,13th Gen,1024,16.0,9.7,2.46,146529,4.6,Programming
+Envy 13,HP,32,Apple M2,11th Gen,256,14.0,4.7,1.59,47809,4.1,Office
+Swift 13,Acer,32,Intel i5-1135G7,12th Gen,512,15.6,5.4,1.23,92966,3.6,Student
+MacBook Pro 17,Apple,8,Apple M2,10th Gen,1024,16.0,10.0,2.53,38576,4.2,Office
+ROG 15,Asus,8,Ryzen 5 5500U,5th Gen,1024,13.3,4.4,2.49,107061,4.8,Student
+Legion 17,Lenovo,8,Ryzen 3 5300U,10th Gen,1024,16.0,9.5,1.81,119438,3.6,Editing
+G15 16,Dell,8,Ryzen 5 5500U,11th Gen,512,15.6,7.9,2.36,124535,4.8,Student
+Swift 14,Acer,32,Intel i3-1115G4,13th Gen,1024,14.0,11.7,2.24,146148,3.8,Student
+15s 14,HP,16,Intel i7-12700H,5th Gen,256,13.3,5.0,1.23,110566,4.2,Student
+Inspiron 14,Dell,16,Apple M1,11th Gen,256,16.0,6.0,1.57,102306,4.4,Programming
+15s 17,HP,8,Intel i7-12700H,13th Gen,1024,16.0,7.9,2.24,102145,4.9,Office
+MacBook Pro 13,Apple,8,Apple M1,11th Gen,512,16.0,8.0,1.3,135196,4.7,Office
+VivoBook 16,Asus,32,Intel i7-12700H,6th Gen,256,13.3,4.2,2.39,143248,4.8,Office
+Katana 16,MSI,8,Intel i5-12450H,13th Gen,1024,15.6,4.8,2.56,179009,4.4,Programming
+Katana 15,MSI,32,Intel i3-1115G4,12th Gen,256,14.0,11.8,2.12,140588,4.3,Programming
+IdeaPad 17,Lenovo,8,Ryzen 5 5500U,5th Gen,1024,14.0,7.4,1.78,107703,3.9,Everyday
+ZenBook 15,Asus,16,Apple M1,11th Gen,512,15.6,4.8,2.39,93934,4.6,Programming
+IdeaPad 17,Lenovo,8,Apple M2,12th Gen,1024,14.0,5.9,1.85,122954,3.5,Student
+XPS 16,Dell,32,Apple M1,5th Gen,1024,16.0,10.3,2.34,169029,4.6,Gaming
+Aspire 17,Acer,32,Ryzen 5 5500U,12th Gen,512,16.0,10.9,2.28,110541,4.5,Office
+G15 14,Dell,32,Intel i5-1135G7,11th Gen,256,14.0,7.1,1.84,174449,4.1,Gaming
+IdeaPad 16,Lenovo,16,Intel i5-12450H,5th Gen,256,16.0,8.1,1.3,163845,3.9,Editing
+TUF 13,Asus,16,Intel i7-12700H,5th Gen,1024,13.3,5.9,2.6,122457,4.3,Programming
+ROG 16,Asus,8,Apple M1,12th Gen,1024,15.6,5.9,2.73,37998,4.2,Everyday
+MacBook Pro 13,Apple,16,Intel i5-12450H,12th Gen,512,13.3,7.4,1.67,95733,3.7,Office
+Envy 13,HP,32,Ryzen 5 5500U,6th Gen,512,16.0,9.0,1.74,104396,4.6,Editing
+XPS 13,Dell,8,Intel i7-12700H,10th Gen,1024,14.0,8.6,2.54,165525,4.5,Student
+Swift 15,Acer,8,Apple M2,12th Gen,1024,15.6,6.7,1.95,95896,3.7,Programming
+ZenBook 14,Asus,8,Intel i5-1135G7,11th Gen,1024,16.0,9.6,1.34,173059,3.9,Editing
+TUF 14,Asus,16,Ryzen 7 5800H,11th Gen,512,16.0,5.9,1.75,109393,4.8,Programming
+TUF 13,Asus,8,Intel i5-12450H,11th Gen,256,16.0,7.0,2.58,96456,4.4,Everyday
+MacBook Air 16,Apple,32,Ryzen 3 5300U,11th Gen,1024,14.0,5.5,1.33,116792,4.1,Gaming
+Envy 15,HP,32,Intel i3-1115G4,13th Gen,1024,14.0,9.2,1.72,142956,4.5,Editing
+Aspire 16,Acer,16,Ryzen 7 5800H,5th Gen,1024,15.6,11.2,2.17,115333,3.6,Programming
+Slim 16,Lenovo,32,Apple M2,10th Gen,1024,15.6,11.4,2.16,51714,4.0,Gaming
+MacBook Pro 17,Apple,8,Ryzen 3 5300U,10th Gen,1024,16.0,7.5,2.5,39516,3.5,Gaming
+XPS 14,Dell,8,Intel i5-12450H,10th Gen,256,14.0,11.1,1.53,116661,4.8,Programming
+VivoBook 17,Asus,8,Apple M2,12th Gen,512,13.3,10.6,1.44,120021,4.0,Editing
+MacBook Air 13,Apple,8,Intel i5-12450H,12th Gen,256,16.0,11.6,1.53,147011,3.9,Editing
+Nitro 13,Acer,32,Ryzen 3 5300U,5th Gen,1024,16.0,6.1,2.65,76145,4.1,Editing
+Inspiron 14,Dell,16,Intel i5-12450H,10th Gen,1024,14.0,10.6,1.96,80929,4.7,Office
+IdeaPad 14,Lenovo,8,Ryzen 7 5800H,13th Gen,512,14.0,5.5,2.35,167247,4.4,Office
+MacBook Pro 16,Apple,32,Apple M2,10th Gen,256,15.6,8.0,2.06,80735,4.4,Editing
+VivoBook 13,Asus,16,Ryzen 7 5800H,13th Gen,1024,13.3,5.5,1.28,170622,3.7,Student
+MacBook Air 14,Apple,8,Intel i5-12450H,10th Gen,256,15.6,9.9,2.5,156760,4.2,Gaming
+MacBook Air 17,Apple,32,Intel i5-1135G7,11th Gen,256,15.6,10.7,2.59,79381,4.9,Gaming
+Slim 17,Lenovo,32,Intel i5-12450H,6th Gen,256,16.0,10.2,1.61,138095,4.9,Programming
+Aspire 14,Acer,32,Ryzen 7 5800H,5th Gen,256,13.3,8.4,1.5,120148,4.3,Gaming
+TUF 15,Asus,8,Apple M1,12th Gen,512,14.0,6.8,1.37,60543,3.8,Everyday
+GF63 13,MSI,8,Ryzen 5 5500U,11th Gen,256,14.0,7.6,2.74,100299,4.4,Gaming
+Slim 14,Lenovo,16,Ryzen 3 5300U,12th Gen,1024,14.0,4.6,2.5,78001,4.2,Editing
+MacBook Pro 14,Apple,8,Intel i3-1115G4,10th Gen,1024,14.0,4.8,1.97,61187,4.2,Programming
+MacBook Air 15,Apple,32,Intel i3-1115G4,10th Gen,512,16.0,5.0,1.36,131075,4.1,Editing
+Aspire 17,Acer,8,Intel i7-12700H,6th Gen,1024,13.3,8.4,1.98,36774,4.0,Gaming
+Modern 17,MSI,32,Apple M2,6th Gen,512,16.0,11.2,2.62,143726,4.3,Student
+Legion 13,Lenovo,32,Ryzen 3 5300U,13th Gen,256,16.0,4.2,2.22,175615,4.6,Office
